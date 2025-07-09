@@ -1,0 +1,10 @@
+# ninja log v5
+16	896	7738055518685309	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	aa364b2c14f2759d
+1	912	7738055518896477	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a3f9b5dfce71139d
+21	934	7738055519112705	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a24ee5b443e87c79
+33	938	7738055519177989	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4a87df2025564bf8
+38	985	7738055519612770	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6bdeec304d8ea71a
+6	1045	7738055520201045	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	767f8d7250392444
+27	1162	7738055521431676	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5e21d72e889b1945
+11	1238	7738055522144840	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e3d76f7be0d42b76
+1238	1327	7738055523067655	C:/Galaxy-Quest-Remote/GalaxyQuest/GalaxyQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1260qd3k/obj/arm64-v8a/libgame.so	b29e0ab2c9ed2ad8

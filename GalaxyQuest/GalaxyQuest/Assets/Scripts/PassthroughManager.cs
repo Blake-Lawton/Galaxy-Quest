@@ -13,6 +13,7 @@ public class PassthroughManager : MonoBehaviour
     [SerializeField] private OVRPassthroughLayer _passthrough;
     [SerializeField] private Camera _centerAnchor;
     [SerializeField] private Material _warpCone;
+    [SerializeField] private ParticleSystem _passingParticles;
     [SerializeField] private AudioSource _warpLoop;
     
     [Title("Volume")]
@@ -25,6 +26,8 @@ public class PassthroughManager : MonoBehaviour
     {
         _volume.profile.TryGet(out _lensDistortion);
     }
+
+    
 
     public void SwapToSkyBox()
     {
