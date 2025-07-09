@@ -1,0 +1,19 @@
+# ninja log v5
+29	547	7719101651762629	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a03e98997ae3865
+12	548	7719101651802858	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e1afad6c32f18c22
+2	558	7719101651953139	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a7e0e4e38558896
+810	886	7719101655219642	C:/GalaxyQuest/GalaxyQuest/GalaxyQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1s2r51a3/obj/arm64-v8a/libgame.so	9bbcebeefc5ab751
+33	610	7719101652451974	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f7f900ccef554087
+7	636	7719101652724980	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b1cae6599f83d317
+20	573	7719101652086869	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4b94fee9bdb5cb28
+24	750	7719101653818993	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	eda2caa69255ea28
+16	810	7719101654428142	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	520ae3bcdb9e9e73
+24	678	7719689291958463	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a03e98997ae3865
+9	693	7719689292107821	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a7e0e4e38558896
+30	694	7719689292137995	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4b94fee9bdb5cb28
+2	723	7719689292413257	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e1afad6c32f18c22
+41	748	7719689292673842	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f7f900ccef554087
+19	786	7719689293052109	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b1cae6599f83d317
+36	887	7719689294068504	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	eda2caa69255ea28
+13	960	7719689294786472	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	520ae3bcdb9e9e73
+960	1167	7719689296892295	C:/GalaxyQuest/GalaxyQuest/GalaxyQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1s2r51a3/obj/arm64-v8a/libgame.so	9bbcebeefc5ab751

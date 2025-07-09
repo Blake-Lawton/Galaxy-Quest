@@ -1,0 +1,2 @@
+C:\GalaxyQuest\GalaxyQuest\GalaxyQuest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\GalaxyQuest\GalaxyQuest\GalaxyQuest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
